@@ -2,7 +2,7 @@
 
 - 👾 Studente **Develhope**
 
-- 👩🏻‍💻 Ho imparato: **HTML, CSS, Git, JavaScript**
+- 👩🏻‍💻 Ho imparato: **HTML, CSS, JavaScript**
 
 - 🌷 Sto imparando: **React, Typescript, Node.js**
 
