@@ -1,5 +1,4 @@
 <h1 align="center">Ciao 👋🏻 sono Silvia!</h1>
-<h3 align="center">Roma, Italia</h3>
 
 - 👾 Studente **Develhope**
 
