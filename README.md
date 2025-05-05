@@ -6,9 +6,9 @@
 
 - 🌷 Sto imparando: **React, Typescript, Node.js**
 
-- 🚀 Altre skill: **UX/UI Design, Graphic Design**
+- 🚀 Conosco anche: **UX/UI Design, Graphic Design**
 
-- 🌍 Parlo **italiano, inglese, francese**
+- 🌍 Parlo: **italiano, inglese, francese**
 
 <h3 align="left">Collegamenti:</h3>
 <p align="left">
