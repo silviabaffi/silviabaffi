@@ -1,13 +1,9 @@
 <h1 align="center">Ciao 👋🏻 sono Silvia!</h1>
 
 - 👾 Studente **Develhope**
-
 - 👩🏻‍💻 Ho imparato: **HTML, CSS, JavaScript**
-
 - 🌷 Sto imparando: **React, Typescript, Node.js**
-
 - 🚀 Conosco anche: **UX/UI Design, Graphic Design**
-
 - 🌍 Parlo: **italiano, inglese, francese**
 
 <h3 align="left">Collegamenti:</h3>
