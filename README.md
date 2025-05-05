@@ -1,17 +1,18 @@
-<h1 align="center">Ciao 👋, sono Silvia</h1>
+<h1 align="center">Ciao 👋 sono Silvia!</h1>
+
 - 👾 Studente **Develhope**
 
-- 🚀 Altre skill **UX/UI Design, Graphic Design**
+- 👩🏻‍💻 Ho imparato: **HTML, CSS, Git, JavaScript**
 
-- 👩🏻‍💻 Ho imparato **HTML, CSS, Git, JavaScript**
+- 🌷 Sto imparando: **React, Typescript, Node.js**
 
-- 🌷 Sto imparando **React, Typescript, Node.js**
+- 🚀 Altre skill: **UX/UI Design, Graphic Design**
 
-- 🌍 Parlo **Italiano, inglese, francese**
+- 🌍 Parlo **italiano, inglese, francese**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/silviabaffi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="silviabaffi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/silvia-baffi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="silvia-baffi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
