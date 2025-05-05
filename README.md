@@ -1,4 +1,4 @@
-<h1 align="center">Ciao 👋🏻 sono Silvia!</h1>
+<h1 align="left">Ciao 👋🏻 sono Silvia!</h1>
 
 - 👾 Studente **Develhope**
 - 👩🏻‍💻 Ho imparato: **HTML, CSS, JavaScript**
