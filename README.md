@@ -1,5 +1,6 @@
 <h1 align="left">Ciao 👋🏻 sono Silvia!</h1>
 
+<h2>📝 Su di me</h2>
 - 👾 Studente **Develhope**
 - 👩🏻‍💻 Ho imparato: **HTML, CSS, JavaScript**
 - 🌷 Sto imparando: **React, Typescript, Node.js**
