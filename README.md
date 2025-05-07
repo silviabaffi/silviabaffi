@@ -2,7 +2,7 @@
 
 <h3 align="left">📝 Su di me</h3>
 
-- 👾 Studente **Develhope**
+- 👾 Studente Fullstack **Develhope**
 - 👩🏻‍💻 Ho imparato: **HTML, CSS, JavaScript**
 - 🌷 Sto imparando: **React, Typescript, Node.js**
 - 💎 Conosco anche: **Adobe Photoshop, Adobe InDesign, Adobe Illustrator**
