@@ -15,7 +15,8 @@
 </p>
 
 <h3 align="left">🔬 Linguaggi e strumenti</h3>
-<p align="left"> <img alt="Static Badge" src="https://img.shields.io/badge/HTML-badge?style=flat-square&logo=html5&logoColor=white&logoSize=auto&color=%23E34F26"> <img alt="Static Badge" src="https://img.shields.io/badge/CSS-badge?style=flat-square&logo=css&logoColor=white&logoSize=auto&color=%23663399">
- <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-badge?style=flat-square&logo=javascript&logoColor=white&logoSize=auto&color=%23F7DF1E">
- <img alt="Static Badge" src="https://img.shields.io/badge/Git-badge?style=flat-square&logo=git&logoColor=white&logoSize=auto&color=%23000">
- <img alt="Static Badge" src="https://img.shields.io/badge/Figma-badge?style=flat-square&logo=figma&logoColor=white&color=%230098FF"> </p>
+<p align="left"> <img alt="Static Badge" src="https://img.shields.io/badge/HTML-badge?style=for-the-badge&logo=html5&logoColor=white&color=%23E34F26">
+ <img alt="Static Badge" src="https://img.shields.io/badge/CSS-badge?style=for-the-badge&logo=css&logoColor=white&color=%23663399">
+ <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-badge?style=for-the-badge&logo=javascript&logoColor=white&logoSize=auto&color=%23F7DF1E">
+ <img alt="Static Badge" src="https://img.shields.io/badge/Git-badge?style=for-the-badge&logo=git&logoColor=white&logoSize=auto&color=%23000">
+ <img alt="Static Badge" src="https://img.shields.io/badge/Figma-badge?style=for-the-badge&logo=figma&logoColor=white&color=%230098FF"> </p>
