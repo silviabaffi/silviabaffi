@@ -5,8 +5,7 @@
 - 👾 Studente Fullstack **Develhope**
 - 👩🏻‍💻 Ho imparato: **HTML, CSS, JavaScript**
 - 🌷 Sto imparando: **React, Typescript, Node.js**
-- 💎 Conosco anche: **Adobe Photoshop, Adobe InDesign, Adobe Illustrator**
-- ✏️ Specializzata anche in: **UX/UI Design, Graphic Design**
+- 💎 Conosco anche: **UX/UI Design, Graphic Design**
 - 🌍 Parlo: **italiano, inglese, francese**
 
 <h3 align="left">🚀 Collegamenti</h3>
