@@ -22,12 +22,12 @@
  <img alt="Static Badge" src="https://img.shields.io/badge/node.js-badge?style=for-the-badge&logo=nodedotjs&logoColor=white&color=%235FA04E">
  <img alt="Static Badge" src="https://img.shields.io/badge/git-badge?style=for-the-badge&logo=git&logoColor=white&color=%23F05032">
  <img alt="Static Badge" src="https://img.shields.io/badge/NPM-badge?style=for-the-badge&logo=npm&color=%23CB3837">
+  <img alt="Static Badge" src="https://img.shields.io/badge/github-badge?style=for-the-badge&logo=github&color=%23181717">
+<img alt="Static Badge" src="https://img.shields.io/badge/eslint-badge?style=for-the-badge&logo=eslint&color=%234B32C3">
+<img alt="Static Badge" src="https://img.shields.io/badge/prettier-badge?style=for-the-badge&logo=prettier&logoColor=white&color=%23F7B93E">
  <img alt="Static Badge" src="https://img.shields.io/badge/figma-badge?style=for-the-badge&logo=figma&logoColor=white&color=%239633ff"> 
 <img alt="Static Badge" src="https://img.shields.io/badge/ADOBE_PHOTOSHOP-white?style=for-the-badge&color=%232fa8ff">
 <img alt="Static Badge" src="https://img.shields.io/badge/ADOBE_ILLUSTRATOR-white?style=for-the-badge&color=%23fe9b02">
 <img alt="Static Badge" src="https://img.shields.io/badge/ADOBE_INDESIGN-white?style=for-the-badge&color=%23e94869">
  <img alt="Static Badge" src="https://img.shields.io/badge/canva-badge?style=for-the-badge&logo=canva&logoColor=white&logoSize=auto&color=%2300C4CC">
- <img alt="Static Badge" src="https://img.shields.io/badge/github-badge?style=for-the-badge&logo=github&color=%23181717">
-<img alt="Static Badge" src="https://img.shields.io/badge/eslint-badge?style=for-the-badge&logo=eslint&color=%234B32C3">
-<img alt="Static Badge" src="https://img.shields.io/badge/prettier-badge?style=for-the-badge&logo=prettier&logoColor=white&color=%23F7B93E">
 </p>
