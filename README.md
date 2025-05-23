@@ -14,13 +14,13 @@
 </p>
 
 <h3 align="left">🔬 Linguaggi e strumenti</h3>
-<p align="left"> <img alt="Static Badge" src="https://img.shields.io/badge/HTML-badge?style=for-the-badge&logo=html5&logoColor=white&color=%23E34F26">
- <img alt="Static Badge" src="https://img.shields.io/badge/CSS-badge?style=for-the-badge&logo=css&logoColor=white&color=%23663399">
+<p align="left"> <img alt="Static Badge" src="https://img.shields.io/badge/HTML5-badge?style=for-the-badge&logo=html5&logoColor=white&color=%23E34F26">
+ <img alt="Static Badge" src="https://img.shields.io/badge/css3-badge?style=for-the-badge&logo=css3&logoColor=white&color=%231572B6">
  <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-badge?style=for-the-badge&logo=javascript&logoColor=white&logoSize=auto&color=%23F7DF1E">
  <img alt="Static Badge" src="https://img.shields.io/badge/react-badge?style=for-the-badge&logo=react&logoColor=white&color=%2361DAFB">
  <img alt="Static Badge" src="https://img.shields.io/badge/typescript-badge?style=for-the-badge&logo=typescript&logoColor=white&color=%233178C6">
  <img alt="Static Badge" src="https://img.shields.io/badge/node.js-badge?style=for-the-badge&logo=nodedotjs&logoColor=white&color=%235FA04E">
- <img alt="Static Badge" src="https://img.shields.io/badge/Git-badge?style=for-the-badge&logo=git&logoColor=white&logoSize=auto&color=%23000">
+ <img alt="Static Badge" src="https://img.shields.io/badge/git-badge?style=for-the-badge&logo=git&logoColor=white&color=%23F05032">
  <img alt="Static Badge" src="https://img.shields.io/badge/NPM-badge?style=for-the-badge&logo=npm&color=%23CB3837">
  <img alt="Static Badge" src="https://img.shields.io/badge/figma-badge?style=for-the-badge&logo=figma&logoColor=white&color=%239633ff"> 
 <img alt="Static Badge" src="https://img.shields.io/badge/ADOBE_PHOTOSHOP-white?style=for-the-badge&color=%232fa8ff">
