@@ -11,6 +11,7 @@
 <h3 align="left">🚀 Collegamenti</h3>
 <p align="left">
 <a href="https://linkedin.com/in/silvia-baffi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="silvia-baffi" height="30" width="40" /></a>
+ <a href="https://instagram.com/silvia.baffi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="silvia.baffi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">🔬 Linguaggi e strumenti</h3>
