@@ -19,6 +19,8 @@
  <img alt="Static Badge" src="https://img.shields.io/badge/css3-badge?style=for-the-badge&logo=css3&logoColor=white&color=%231572B6">
  <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-badge?style=for-the-badge&logo=javascript&logoColor=white&logoSize=auto&color=%23F7DF1E">
  <img alt="Static Badge" src="https://img.shields.io/badge/react-badge?style=for-the-badge&logo=react&logoColor=white&color=%2361DAFB">
+ <img alt="Static Badge" src="https://img.shields.io/badge/swr-badge?style=for-the-badge&logo=swr&color=%23000000">
+<img alt="Static Badge" src="https://img.shields.io/badge/reactrouter-badge?style=for-the-badge&logo=reactrouter&logoColor=white&color=%23CA4245">
  <img alt="Static Badge" src="https://img.shields.io/badge/typescript-badge?style=for-the-badge&logo=typescript&logoColor=white&color=%233178C6">
  <img alt="Static Badge" src="https://img.shields.io/badge/node.js-badge?style=for-the-badge&logo=nodedotjs&logoColor=white&color=%235FA04E">
  <img alt="Static Badge" src="https://img.shields.io/badge/git-badge?style=for-the-badge&logo=git&logoColor=white&color=%23F05032">
