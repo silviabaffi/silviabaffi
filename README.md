@@ -16,7 +16,7 @@
 
 <h3 align="left">🔬 Linguaggi e strumenti</h3>
 <p align="left"> <img alt="Static Badge" src="https://img.shields.io/badge/HTML5-badge?style=for-the-badge&logo=html5&logoColor=white&color=%23E34F26">
- <img alt="Static Badge" src="https://img.shields.io/badge/css3-badge?style=for-the-badge&logo=css3&logoColor=white&color=%231572B6">
+ <img alt="Static Badge" src="https://img.shields.io/badge/css-badge?style=for-the-badge&logo=css&logoColor=white&color=%23663399">
  <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-badge?style=for-the-badge&logo=javascript&logoColor=white&logoSize=auto&color=%23F7DF1E">
  <img alt="Static Badge" src="https://img.shields.io/badge/react-badge?style=for-the-badge&logo=react&logoColor=white&color=%2361DAFB">
  <img alt="Static Badge" src="https://img.shields.io/badge/swr-badge?style=for-the-badge&logo=swr&color=%23000000">
