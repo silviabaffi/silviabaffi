@@ -6,7 +6,7 @@
 - 👾 Ho imparato: **HTML, CSS, JavaScript, React**
 - 🌷 Sto imparando: **Typescript, Node.js**
 - 💎 Conosco anche: **UX/UI Design, Graphic Design**
-- 🌍 Parlo: **italiano, inglese, francese**
+- 🌍 Parlo: **italiano, inglese**
 
 <h3 align="left">🚀 Collegamenti</h3>
 <p align="left">
