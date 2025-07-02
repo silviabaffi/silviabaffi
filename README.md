@@ -3,8 +3,8 @@
 <h3 align="left">📝 Su di me</h3>
 
 - 👩🏻‍💻 Studente Fullstack **Develhope**
-- 👾 Ho imparato: **HTML, CSS, JavaScript, React**
-- 🌷 Sto imparando: **Typescript, Node.js**
+- 👾 Ho imparato: **HTML, CSS, JavaScript, React, Typescript**
+- 🌷 Sto imparando: **Node.js**
 - 💎 Conosco anche: **UX/UI Design, Graphic Design**
 - 🌍 Parlo: **italiano, inglese**
 
