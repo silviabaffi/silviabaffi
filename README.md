@@ -2,8 +2,8 @@
 
 <h3 align="left">📝 Su di me</h3>
 
-- 👩🏻‍💻 Studente Fullstack **Develhope**
-- 👾 Ho imparato: **HTML, CSS, JavaScript, React, Typescript, Node.js**
+- 👩🏻‍💻 Fullstack Web Developer
+- 👾 Skills: **HTML, CSS, JavaScript, React, Typescript, Node.js**
 - 💎 Conosco anche: **UX/UI Design, Graphic Design**
 - 🌍 Parlo: **italiano, inglese**
 
